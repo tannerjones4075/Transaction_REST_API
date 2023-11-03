@@ -1,0 +1,6 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/tannerjones4075/Transaction_REST_API v0.0.0-20231103053451-006d1e9098df h1:xQU+VIteXRiJHyKMJGbH96eni1+Yq5BSkBE+yCc9VjE=
+github.com/tannerjones4075/Transaction_REST_API v0.0.0-20231103053451-006d1e9098df/go.mod h1:A1N+MzzSy1XOfjYUEYnZ+8OiY8FXy7e365qvdwPY54E=
