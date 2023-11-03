@@ -6,6 +6,7 @@ import (
 	"log"
 
 	"github.com/gorilla/mux"
+	_ "github.com/lib/pq"
 )
 
 type App struct {
